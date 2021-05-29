@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne: 'I\'m a confident, reliable and multi-skilled identity consultant with a comprehensive understanding and experience in designing, developing, and deploying Identity and Access Management (IAM) infrastructure, alongside maintaining and triaging existing client infrastructure through years of experience delivering successful identity solutions for both multinational enterprises and small-medium business solutions.',
   paragraphTwo: '',
   paragraphThree: '',
   resume: '', // if no resume, the button will not show up
@@ -30,34 +30,34 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Title',
-    info: 'Info 1',
-    info2: 'Info 2',
+    info: 'First line of info.',
+    info2: 'Second line of info.',
     url: 'google.com',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
+    title: 'Title 2',
+    info: 'First line of info.',
+    info2: 'Second line of info.',
+    url: 'google.com',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
+    title: 'Title 3',
+    info: 'First line of info.',
+    info2: 'Second line of ijnfo.',
+    url: 'google.com',
     repo: '', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'mailto:contact@callumpope.com',
+  cta: 'Want to know more?',
   btn: 'Let\'s Chat',
   email: 'contact@callumpope.com',
 };
@@ -65,26 +65,26 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    //{
+    //  id: nanoid(),
+    //  name: 'twitter',
+    //  url: '',
+    //},
+    //{
+    //  id: nanoid(),
+    //  name: 'codepen',
+    //  url: '',
+    //},
     {
       id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/callumpope/',
     },
-    {
-      id: nanoid(),
-      name: 'github',
-      url: '',
-    },
+    //{
+    //  id: nanoid(),
+    //  name: 'github',
+    //  url: '',
+    //},
   ],
 };
 

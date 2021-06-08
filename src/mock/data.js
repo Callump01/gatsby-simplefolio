@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Callum Pope | Senior IAM Specialist', // e.g: 'Name | Developer'
+  title: 'Callum Pope | Senior IAM Specialist & Security Researcher', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Welcome to my portfolio website', // e.g: Welcome to my website
 };
@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Callum',
-  subtitle: 'I\'m a Senior IAM Specialist',
+  subtitle: 'I\'m a Senior IAM Specialist & Security Researcher',
   cta: 'Get to know me',
 };
 

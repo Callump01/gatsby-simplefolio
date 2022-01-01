@@ -17,10 +17,10 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'me-unedited_ccexpress.png',
   paragraphOne: 'I\'m a confident, reliable and multi-skilled identity consultant with a comprehensive understanding and experience in designing, developing, and deploying Identity and Access Management (IAM) infrastructure, alongside maintaining and triaging existing client infrastructure through years of experience delivering successful identity solutions for both multinational enterprises and small-medium business solutions.',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphTwo: 'I\'m an excellent cross-functional collaborator with an ability to multi-task well under pressure and relate with stakeholders of all seniorities and technical ability. Curious personality with a positive mindset and a dedication to continued growth.',
+  paragraphThree: 'I am security cleared to a high government standard.',
   resume: '', // if no resume, the button will not show up
 };
 
